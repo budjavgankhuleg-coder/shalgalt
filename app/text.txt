@@ -1,0 +1,24 @@
+1.b
+2.b
+3.d
+4.d
+5.b
+6.d
+7.c
+8.c
+9.b
+10.b
+11.a
+12.b
+13.a
+2-r heseg
+1.CSR-ene n shuud orood heseg gathaad haragdana
+SSR -ene n orohgue heden sec-d gathaad tegeed orhod bugd belen bolson bna
+gol yalgaan n iluu hurdan oruuldag bolgohiig husvel CSR joohon gathaad orhod bugd haragddag bolgohiih husvel SSR ashigla
+2.Image нь Next.js
+-ийн built-in компонент бөгөөд зураг (<img>)-ийг илүү хурдан, оновчтой (optimized) байдлаар харуулах зориулалттай.
+3.Dynamic Routing гэдэг нь URL-ийн хэсгийг динамикаар авч, нэг route-оор олон төрлийн хуудас үүсгэх боломж юм.
+Жишээ: pages/blog/[id].js
+4.localStorage нь браузер дээр зөвхөн string текст төрлийн өгөгдөл хадгалдаг.Object-ийг шууд хадгалж болохгүй.
+Тиймээс JSON.stringify() ашиглан string болгож хадгална.
+5.React-д хүүхэд компонент Child Component нь эцэг компонентийн Parent Component state-г шууд өөрчилж чаддаггүй.
